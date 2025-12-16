@@ -61,7 +61,7 @@ This is a quick demo showing how quickly you can create a new API App using Visu
 
 2. Select the **Azure API App (Preview)** project template
 
-3. Add a Contact class to the project with the name **Product.cs**
+3. Add a Model class to the project with the name **Product.cs**
 
 4. Add the following code to the contact class:
 
